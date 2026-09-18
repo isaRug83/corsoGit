@@ -3,4 +3,6 @@ public class Prodotto{
 
     private String quantita;
 
+    private String p;
+    private String g;
 }
