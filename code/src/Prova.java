@@ -1,3 +1,4 @@
 Public class Prova {
-    private string prova;
+    private String prova;
+    private String prova2;
 }
