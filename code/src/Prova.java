@@ -1,5 +1,4 @@
 Public class Prova {
     private String prova;
-    private String p;
-
+    private String prova2;
 }
