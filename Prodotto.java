@@ -3,4 +3,5 @@ public class Prodotto{
     private String tipo;
     private String quantita;
     private String p;
+    private String g;
 }
